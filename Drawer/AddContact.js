@@ -5,7 +5,7 @@ function AddContact(){
     return(
 
         <View>
-            <Text>AddContact</Text>
+            <Text>AddContactttttt</Text>
         </View>
 
     )
